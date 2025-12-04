@@ -1,0 +1,28 @@
+
+body{
+ margin:0;
+ font-family:Inter,Arial;
+ background:url('../img/core-bg.png') center/cover no-repeat fixed;
+ color:white;
+}
+header{
+ display:flex;
+ align-items:center;
+ padding:20px;
+}
+.logo{
+ height:60px;
+}
+.navbtn{
+ margin:10px;
+ padding:12px 20px;
+ background:#00d1ff;
+ color:black;
+ font-weight:bold;
+ border-radius:8px;
+ text-decoration:none;
+}
+.center{
+ text-align:center;
+ margin-top:120px;
+}
